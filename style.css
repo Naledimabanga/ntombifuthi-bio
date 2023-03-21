@@ -1,0 +1,130 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+body {
+    background: #B26E63;
+}
+h1 {
+  text-align: cente;
+  font-size: large;
+  color: white;
+}
+
+.profile-img {
+  width: 50%;
+  border-radius: 50%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin:  1% 0 1% 0;
+}
+._12 {
+    font-size: 1.2em;
+}
+._14 {
+    font-size: 1.4em;
+}
+ul {
+    padding:0;
+    list-style: none;
+}
+
+.social-icons li {
+    vertical-align: top;
+    display: inline;
+    height: 100px;
+}
+.social-icons a {
+    color: #fff;
+    text-decoration: none;
+}
+.fa-facebook {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-facebook:hover {
+    background-color: #3d5b99;
+}
+.fa-twitter {
+    padding:10px 12px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-twitter:hover {
+    background-color: #00aced;
+}
+.fa-youtube {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-youtube:hover {
+    background-color: #e64a41;
+}
+.fa-linkedin {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-linkedin:hover {
+    background-color: #0073a4;
+}
+h2 {
+  background: white;
+  display: flexbox;
+  text-align: center;
+  font-size: 10px;
+  box-shadow: 5px 10px 4px 2px grey;
+  margin: 5px;
+  height: 20px;
+  
+}
+h3 {
+  background: white;
+  display: flexbox;
+  text-align: center;
+  font-size: 10px;
+ box-shadow: 5px 10px 4px 2px grey;
+ margin: 5px;
+ height: 20px;
+ 
+}
+h4 {
+  background: white;
+  display: flexbox;
+  text-align: center;
+  font-size: 10px;
+box-shadow: 5px 10px 4px 2px grey;
+margin: 5px;
+height: 20px;
+}
+h5 {
+  background: white;
+  display: flexbox;
+  text-align: center;
+  font-size: 10px;
+  box-shadow: 5px 10px 4px 2px grey;
+  margin: 5px;
+  height: 20px;
+ 
+}
